@@ -1,4 +1,14 @@
-## Hi there 👋
+## Yuri Is Peak
+
+Hello! I'm a Lithuanian developer primarily writing in py and js. I work on tui's as i sit in the terminal a lot, web games, and im working on a personal dynamic website for myself.
+
+## Projects
+hmmm... there's nothing here... weird
+-# I haven't made anything public yet :/
+-# Maybe when i get something i'm satisfied with...
+
+Contact: YuriIsPeak@proton.me
+
 
 <!--
 **Yuri-Is-Peak/Yuri-Is-Peak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
