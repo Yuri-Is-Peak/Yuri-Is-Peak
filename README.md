@@ -4,9 +4,13 @@ Hello! I'm a Lithuanian developer primarily writing in py and js. I work on tui'
 
 ## Projects
 hmmm... there's nothing here... weird  //  I haven't made anything public yet :/ Maybe when i get something i'm satisfied with...
+## Leaning & Extra
+Learning golang cause the mascot looks cool
+I ussualy do my commits before the end of the day, 23hr-24hr generally
+
 
 Contact: YuriIsPeak@proton.me
-
+discord: yuri_is_peak_
 
 <!--
 **Yuri-Is-Peak/Yuri-Is-Peak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
