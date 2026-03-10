@@ -1,28 +1,21 @@
-## Yuri Is Peak
+# Yuri Is Peak
+## Languages i use
 
-Hello! I'm a Lithuanian developer primarily writing in py and js. I work on tui's as i sit in the terminal a lot, web games, and im working on a personal dynamic website for myself.
+<img width="100" height="110" alt="C" src="https://github.com/user-attachments/assets/75594d5d-624f-46d9-9bfd-c2a4a9a1485c" />
+      <img width="100" height="100" alt="go_gopher" src="https://github.com/user-attachments/assets/88016364-266d-4998-a041-4ed3668e556d" />
+<img width="100" height="100" alt="python" src="https://github.com/user-attachments/assets/3170f89a-332d-4f65-b245-6739e6387e33" />
 
-## Projects
-hmmm... there's nothing here... weird  //  I haven't made anything public yet :/ Maybe when i get something i'm satisfied with...
-## Leaning & Extra
-Learning golang cause the mascot looks cool
-I ussualy do my commits before the end of the day, 23hr-24hr generally
+## About me
+15 year old femboy who should probably sleep more + neovim btw
+
+# Projects
+### bettercurses: a library for cli's
+https://github.com/Yuri-Is-Peak/bettercurses
 
 
-Contact: YuriIsPeak@proton.me
+
+
+
+# Contact
+mail: YuriIsPeak@proton.me
 discord: yuri_is_peak_
-
-<!--
-**Yuri-Is-Peak/Yuri-Is-Peak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
